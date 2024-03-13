@@ -55,5 +55,4 @@ This repository contains an implementation of logistic regression for binary cla
 ### Note
 - Ensure that the CSV file 'Social_Network_Ads.csv' exists and contains the appropriate data. The dataset should have two numerical columns (age and estimated salary) and a binary target variable.
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
